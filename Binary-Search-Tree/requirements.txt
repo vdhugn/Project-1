@@ -1,0 +1,4 @@
+# requirements.txt
+
+# Specify the required version or omit it for the latest version
+tkinter==8.6
